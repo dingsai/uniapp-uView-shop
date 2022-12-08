@@ -1,5 +1,6 @@
 <template>
 	<view>
+		gerenzhongxin 
 	</view>
 </template>
 
